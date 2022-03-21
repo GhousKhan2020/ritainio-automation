@@ -1,0 +1,2 @@
+testCaseCode,testCaseDescription,userName,password,index,cart,firstName,lastName,postalCode
+TC-1,Successful Checkout Backpack,standard_user,secret_sauce,0,add to cart,Ghous,Khan,1235
